@@ -1,2 +1,5 @@
 # NodeJS-Basics
-Creating a Server
+purpose: Creating a Server
+Tool: JavaScript
+author:River Li
+
